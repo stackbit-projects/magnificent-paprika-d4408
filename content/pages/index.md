@@ -40,7 +40,7 @@ sections:
           - pr-4
           - pl-4
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col-reverse
       title:
         fontWeight: '700'
